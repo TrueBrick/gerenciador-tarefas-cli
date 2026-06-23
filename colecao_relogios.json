@@ -1,0 +1,48 @@
+{
+    "colecao": [
+        {
+            "marca": "Rolex",
+            "modelo": "Daytona",
+            "ano": 2025,
+            "preco_pago": 380000.0,
+            "especificacoes": {
+                "movimento": "automatico",
+                "diametro_mm": 39,
+                "reserva_de_marcha_h": 72
+            }
+        },
+        {
+            "marca": "Tudor",
+            "modelo": "Black Bay GMT Coke",
+            "ano": 2024,
+            "preco_pago": 27500.0,
+            "especificacoes": {
+                "movimento": "automatico",
+                "diametro_mm": 39,
+                "reserva_de_marcha_h": 60
+            }
+        },
+        {
+            "marca": "Roue",
+            "modelo": "CHR9",
+            "ano": 2026,
+            "preco_pago": 4000.0,
+            "especificacoes": {
+                "movimento": "Quartz",
+                "diametro_mm": 40,
+                "reserva_de_marcha_h": 0
+            }
+        },
+        {
+            "marca": "Casio",
+            "modelo": "G-Shock GA-100-1A",
+            "ano": 2008,
+            "preco_pago": 950.0,
+            "especificacoes": {
+                "movimento": "Quartz",
+                "diametro_mm": 51,
+                "reserva_de_marcha_h": 0
+            }
+        }
+    ]
+}
